@@ -1,1 +1,1 @@
-# AlconSocketServer
+# Halcon Socket Server
