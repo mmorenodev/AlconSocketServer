@@ -12,8 +12,8 @@ emitToServer.addEventListener("click", () => {
 
 });
 
-socket.on("lee_peso_bascula", message => {
+socket.on("lee_peso_en_bascula", message => {
 
-    console.log(message);
+    console.log("Leyendo peso en bascula " + message);
 
 });
